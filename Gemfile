@@ -1,0 +1,15 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+gem 'bundler'
+gem 'bundler-unload'
+gem 'date'
+gem 'fileutils'
+gem 'json'
+gem 'parser'
+gem 'parser_tree_rewriter'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'
+gem 'rubygems-bundler'
+gem 'travis'
